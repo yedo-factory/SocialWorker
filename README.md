@@ -7,23 +7,6 @@ SocialWorkerは、Twitter、Facebook、Line、Instagram、メールへの連携�
 
 [Japanese](https://github.com/)/[English](https://github.com/)
 
-## Requirement
-
-### iOS
-iOS 6.0以上
-
-### Android
-Android 2.3以上
-
-## Usage
-
-    SocialWorker.PostTwitter(string message, string url, string imagePath, Action<SocialWorkerResult> onResult = null)
-    SocialWorker.PostFacebook(string imagePath, Action<SocialWorkerResult> onResult = null)
-    SocialWorker.PostLine(string message, string imagePath, Action<SocialWorkerResult> onResult = null)
-    SocialWorker.PostInstagram(string imagePath, Action<SocialWorkerResult> onResult = null)
-    SocialWorker.PostMail(string[] to, string[] cc, string[] bcc, string subject, string message, string imagePath, Action<SocialWorkerResult> onResult = null)
-    SocialWorker.CreateChooser(string message, string imagePath, Action<SocialWorkerResult> onResult = null)
-
 ## Author
 
 [yedo-factory](http://yedo-factory.co.jp/)
