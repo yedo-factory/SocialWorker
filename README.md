@@ -13,7 +13,7 @@ SocialWorkerは、Twitter、Facebook、Line、Instagram、メールへの連携�
 iOS 6.0以上
 
 ### Android
-Android 4.0以上
+Android 2.3以上
 
 ## Usage
 
