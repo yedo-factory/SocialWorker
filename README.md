@@ -14,6 +14,7 @@ SocialWorkerは各種SNSへの簡単なデータの受け渡しをサポート�
 
 ## Requirement
 
+Unity 5.0+  
 iOS 6.0+  
 Android 2.3+
 
