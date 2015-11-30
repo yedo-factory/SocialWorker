@@ -29,5 +29,9 @@ SocialWorkerはTwitter、Facebook、Line、Instagram、メールへの連携を�
 (2)Scriptから[SocialWorker.PostTwitter][SocialWorker.PostFacebook][SocialWorker.PostLine][SocialWorker.PostInstagram][SocialWorker.PostMail][SocialWorker.CreateChooser]を呼ぶ
 
 ■バージョン履歴
-▽1.0.0
-初期バージョン
+
+1.0.1
+- add : [Editor/SocialWorkerPostProcessBuild]追加。iOS9でカスタムURLスキームがinfo.plistに記載されていない場合にエラーになる問題の対応。
+
+1.0.0
+- 初期バージョン

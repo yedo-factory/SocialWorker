@@ -29,5 +29,9 @@ Post of message and image is supported.
 (2)[SocialWorker.PostTwitter][SocialWorker.PostFacebook][SocialWorker.PostLine][SocialWorker.PostInstagram][SocialWorker.PostMail][SocialWorker.CreateChooser] is called.
 
 ■Version History
-▽1.0.0
-First release
+
+1.0.1
+- add : [Editor/SocialWorkerPostProcessBuild]. Custom URL Scheme has to be written in info.plist in iOS9, modify of the bug URL doesn't open.
+
+1.0.0
+- First release
