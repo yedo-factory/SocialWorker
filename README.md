@@ -33,6 +33,13 @@ Android 2.3+
     SocialWorker.PostMail(string[] to, string[] cc, string[] bcc, string subject, string message, string imagePath, Action<SocialWorkerResult> onResult = null)
     SocialWorker.CreateChooser(string message, string imagePath, Action<SocialWorkerResult> onResult = null)
 
+![ss_0.png](https://qiita-image-store.s3.amazonaws.com/0/98018/c6f72970-9c06-44eb-e226-ba75075c5ff8.png)
+![ss_1.png](https://qiita-image-store.s3.amazonaws.com/0/98018/2940c110-7763-529d-bea8-d05ec29bb8f2.png)
+![ss_2.png](https://qiita-image-store.s3.amazonaws.com/0/98018/a4e8319d-e71c-2190-960a-e8241dbf72df.png)
+![ss_3.png](https://qiita-image-store.s3.amazonaws.com/0/98018/90ee0e20-5497-b7c1-994b-f7b0cb97cc6f.png)
+![ss_4.png](https://qiita-image-store.s3.amazonaws.com/0/98018/ac1e9b54-9bc5-df8e-903c-af383643f3af.png)
+![ss_5.png](https://qiita-image-store.s3.amazonaws.com/0/98018/39c98e18-0e5f-01f7-9e99-d5ef71ebabcb.png)
+
 ## Install
 
 本プロジェクトをUnity上にそのままインポートするか、トップ階層にある SocialWorker.unitypackage をご使用下さい。
